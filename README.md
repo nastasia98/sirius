@@ -1,7 +1,8 @@
 # Деплой на versel
 https://sirius-peach.vercel.app/
 
-## Требования к запуску проекта:
+
+# Требования к запуску проекта:
 
 ### Установить yarn:
 npm i -g yarn
