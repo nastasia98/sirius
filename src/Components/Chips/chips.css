@@ -1,0 +1,13 @@
+.btn__item {
+    padding: 10px 20px;
+    width: auto;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    transition: all 50ms ease-in-out;
+}
+
+.btn__item:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 8px 0 rgba(34, 60, 80, 0.2);
+    }
